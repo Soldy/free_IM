@@ -1,4 +1,8 @@
-This research is about three issues, and I believe they are not unique to me. 
+Free IM is a research project focused on instant messengers and online chats, which have existed for 30 years. Multiple protocols and service providers exist with thousands of official and non-official clients.  
+This research focuses on usability and efficiency. Find the issues and the possible solutions it has.
+   
+
+This research is about four issues, and I believe they are not unique to me. 
 
   1. Some communication apps demand excessive permissions on the phone. If you remove the permission, the app won't work.
   1. Some apps cannot be tricked with mocked GPS locations.
